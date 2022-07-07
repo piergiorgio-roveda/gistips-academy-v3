@@ -1,5 +1,8 @@
 # Create code from seq
 
+[> GTA-v3](../../README.md) [> Tutorials](../README.md)
+* * *
+
 ```sql
 UPDATE table1
 SET
@@ -57,3 +60,11 @@ ALTER COLUMN item_token
             (now())::text
     );
 ```
+
+## UNIQUE KEY
+
+```sql
+ALTER TABLE table1
+    ADD CONSTRAINT table1_unique3 UNIQUE (item_token);
+```
+

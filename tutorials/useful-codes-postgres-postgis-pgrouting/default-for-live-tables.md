@@ -1,5 +1,8 @@
 # Default for live tables
 
+[> GTA-v3](../../README.md) [> Tutorials](../README.md)
+* * *
+
 ```sql
 ALTER TABLE public.table_foo
     ADD COLUMN pid serial NOT NULL;

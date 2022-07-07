@@ -33,3 +33,4 @@ GTA is a community of users about methods and operational tools for environmenta
 - [Proof-of-location](gaming/README.md)
 - [Geodata](geodata/README.md)
 - [Technical articles](technical-articles/README.md)
+- [OpenAI](openai/README.md)

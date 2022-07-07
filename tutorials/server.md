@@ -1,5 +1,8 @@
 # Server
 
+[> GTA-v3](../../README.md) [> Tutorials](../README.md)
+* * *
+
 1. creazione droplet su digital-ocean
 2. accesso al droplet con PuTTY da Windows ([https://www.putty.org/](https://www.putty.org))
 3. creazione di un dominio di 3° livello
